@@ -1,8 +1,3 @@
-
-Shashank M S
-2:43 PM (5 minutes ago)
-to Shashank, me, Shashank, Shashank, Shravanth
-
 import heapq
 
 class Node:
